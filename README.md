@@ -10,4 +10,4 @@ Directory  | Description
 `tests`    | test cases used
 
 ### Disclaimer
-You should not use this as your implmentation for any assignments.
+You should not use this as your implementation for any assignments.
