@@ -1,0 +1,104 @@
+pa2 results for junaowu
+
+SCORING:
+1 point  for exit(4) termination in fail1xx test
+2 points for exit(4) termination in fail2xx test
+
+1 point  for exit(0) termination and correct AST in pass1xx test
+2 points for exit(0) termination and correct AST in pass2xx test (xx <  90)
+4 points for exit(0) termination and correct AST in passxxx test (xx >= 90)
+
+miniJava compiler build successful! 
+
+Test fail120: was correctly rejected.                Points = 1
+Test fail127: was correctly rejected.                Points = 1
+Test fail130: was correctly rejected.                Points = 1
+Test fail131: was correctly rejected.                Points = 1
+Test fail151: was correctly rejected.                Points = 1
+Test fail152: was correctly rejected.                Points = 1
+Test fail154: was correctly rejected.                Points = 1
+Test fail155: was correctly rejected.                Points = 1
+Test fail157: was correctly rejected.                Points = 1
+Test fail170: was correctly rejected.                Points = 1
+Test fail217: was correctly rejected.                Points = 2
+Test fail218: was correctly rejected.                Points = 2
+Test fail220: was correctly rejected.                Points = 2
+Test fail222: was correctly rejected.                Points = 2
+Test fail224: was correctly rejected.                Points = 2
+Test fail230: was correctly rejected.                Points = 2
+Test fail233: was correctly rejected.                Points = 2
+Test fail237: was correctly rejected.                Points = 2
+Test pass110: accepted and correct AST constructed.  Points = 1
+Test pass119: accepted and correct AST constructed.  Points = 1
+Test pass121: accepted and correct AST constructed.  Points = 1
+Test pass123: accepted and correct AST constructed.  Points = 1
+Test pass124: accepted and correct AST constructed.  Points = 1
+Test pass128: accepted and correct AST constructed.  Points = 1
+Test pass129: accepted and correct AST constructed.  Points = 1
+Test pass130: accepted and correct AST constructed.  Points = 1
+Test pass131: accepted and correct AST constructed.  Points = 1
+Test pass150: accepted and correct AST constructed.  Points = 1
+Test pass152: accepted and correct AST constructed.  Points = 1
+Test pass153: accepted and correct AST constructed.  Points = 1
+Test pass154: accepted and correct AST constructed.  Points = 1
+Test pass155: accepted and correct AST constructed.  Points = 1
+Test pass158: accepted and correct AST constructed.  Points = 1
+Test pass159: accepted and correct AST constructed.  Points = 1
+Test pass160: accepted and correct AST constructed.  Points = 1
+Test pass162: accepted and correct AST constructed.  Points = 1
+Test pass163: accepted and correct AST constructed.  Points = 1
+Test pass164: accepted and correct AST constructed.  Points = 1
+Test pass165: accepted and correct AST constructed.  Points = 1
+Test pass166: accepted and correct AST constructed.  Points = 1
+Test pass167: accepted and correct AST constructed.  Points = 1
+Test pass168: accepted and correct AST constructed.  Points = 1
+Test pass169: accepted and correct AST constructed.  Points = 1
+Test pass201: accepted and correct AST constructed.  Points = 2
+Test pass202: accepted and correct AST constructed.  Points = 2
+Test pass203: accepted and correct AST constructed.  Points = 2
+Test pass204: accepted and correct AST constructed.  Points = 2
+Test pass205: accepted and correct AST constructed.  Points = 2
+Test pass206: accepted and correct AST constructed.  Points = 2
+Test pass207: accepted and correct AST constructed.  Points = 2
+Test pass208: accepted and correct AST constructed.  Points = 2
+Test pass209: accepted and correct AST constructed.  Points = 2
+Test pass210: accepted and correct AST constructed.  Points = 2
+Test pass212: accepted and correct AST constructed.  Points = 2
+Test pass213: accepted and correct AST constructed.  Points = 2
+Test pass214: accepted and correct AST constructed.  Points = 2
+Test pass217: accepted and correct AST constructed.  Points = 2
+Test pass218: accepted and correct AST constructed.  Points = 2
+Test pass219: accepted and correct AST constructed.  Points = 2
+Test pass220: accepted and correct AST constructed.  Points = 2
+Test pass222: accepted and correct AST constructed.  Points = 2
+Test pass223: accepted and correct AST constructed.  Points = 2
+Test pass225: accepted and correct AST constructed.  Points = 2
+Test pass226: accepted and correct AST constructed.  Points = 2
+Test pass235: accepted and correct AST constructed.  Points = 2
+Test pass236: accepted and correct AST constructed.  Points = 2
+Test pass238: accepted and correct AST constructed.  Points = 2
+Test pass239: accepted and correct AST constructed.  Points = 2
+Test pass252: accepted and correct AST constructed.  Points = 2
+Test pass253: accepted and correct AST constructed.  Points = 2
+Test pass254: accepted and correct AST constructed.  Points = 2
+Test pass255: accepted and correct AST constructed.  Points = 2
+Test pass256: accepted and correct AST constructed.  Points = 2
+Test pass257: accepted and correct AST constructed.  Points = 2
+Test pass258: accepted and correct AST constructed.  Points = 2
+Test pass259: accepted and correct AST constructed.  Points = 2
+Test pass260: accepted and correct AST constructed.  Points = 2
+Test pass261: accepted and correct AST constructed.  Points = 2
+Test pass262: accepted and correct AST constructed.  Points = 2
+Test pass263: accepted and correct AST constructed.  Points = 2
+Test pass264: accepted and correct AST constructed.  Points = 2
+Test pass265: accepted and correct AST constructed.  Points = 2
+Test pass266: accepted and correct AST constructed.  Points = 2
+Test pass290: accepted and correct AST constructed.  Points = 4
+Test pass293: accepted and correct AST constructed.  Points = 4
+
+
+Runtime failures: 0
+Fail testcases:   Correct: 18   Incorrect: 0
+Pass testcases:   Correct: 67   Incorrect: 0
+
+Total Points Earned: 139

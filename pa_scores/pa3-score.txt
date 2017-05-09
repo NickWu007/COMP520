@@ -1,0 +1,108 @@
+pa3 results for junaowu
+
+PA3 fail tests earn 1 point for exit(4)
+PA3 pass3xx tests xx <  90 earn 1 point  for exit(0)
+PA3 pass3xx tests xx >= 90 earn 1 points for exit(0)
+
+miniJava compiler build succeeded. 
+
+Test fail301: was correctly rejected.                          Points = 1
+Test fail302: was correctly rejected.                          Points = 1
+Test fail303: was correctly rejected.                          Points = 1
+Test fail304: was correctly rejected.                          Points = 1
+Test fail306: was correctly rejected.                          Points = 1
+Test fail307: FAILED to be rejected.                           Points = 0
+Test fail308: was correctly rejected.                          Points = 1
+Test fail309: was correctly rejected.                          Points = 1
+Test fail310: was correctly rejected.                          Points = 1
+Test fail311: was correctly rejected.                          Points = 1
+Test fail312: was correctly rejected.                          Points = 1
+Test fail313: was correctly rejected.                          Points = 1
+Test fail315: was correctly rejected.                          Points = 1
+Test fail316: was correctly rejected.                          Points = 1
+Test fail317: was correctly rejected.                          Points = 1
+Test fail318: was correctly rejected.                          Points = 1
+Test fail320: was correctly rejected.                          Points = 1
+Test fail321: was correctly rejected.                          Points = 1
+Test fail322: was correctly rejected.                          Points = 1
+Test fail323: was correctly rejected.                          Points = 1
+Test fail324: was correctly rejected.                          Points = 1
+Test fail325: was correctly rejected.                          Points = 1
+Test fail326: was correctly rejected.                          Points = 1
+Test fail327: was correctly rejected.                          Points = 1
+Test fail328: was correctly rejected.                          Points = 1
+Test fail329: was correctly rejected.                          Points = 1
+Test fail330: FAILED to be rejected.                           Points = 0
+Test fail331: was correctly rejected.                          Points = 1
+Test fail333: was correctly rejected.                          Points = 1
+Test fail334: was correctly rejected.                          Points = 1
+Test fail335: FAILED to be rejected.                           Points = 0
+Test fail336: was correctly rejected.                          Points = 1
+Test fail337: was correctly rejected.                          Points = 1
+Test fail340: was correctly rejected.                          Points = 1
+Test fail342: was correctly rejected.                          Points = 1
+Test fail348: was correctly rejected.                          Points = 1
+Test fail349: was correctly rejected.                          Points = 1
+Test fail350: FAILED to be rejected.                           Points = 0
+Test fail351: FAILED to be rejected.                           Points = 0
+Test fail352: FAILED to be rejected.                           Points = 0
+Test fail353: FAILED to be rejected.                           Points = 0
+Test fail354: FAILED to be rejected.                           Points = 0
+Test fail355: FAILED to be rejected.                           Points = 0
+Test pass301: was correctly accepted.                          Points = 1
+Test pass302: was correctly accepted.                          Points = 1
+Test pass303: FAILED to be accepted.                           Points = 0
+Test pass304: FAILED to be accepted.                           Points = 0
+Test pass305: FAILED to be accepted.                           Points = 0
+Test pass306: FAILED to be accepted.                           Points = 0
+Test pass307: FAILED to be accepted.                           Points = 0
+Test pass308: was correctly accepted.                          Points = 1
+Test pass309: was correctly accepted.                          Points = 1
+Test pass310: was correctly accepted.                          Points = 1
+Test pass311: FAILED to be accepted.                           Points = 0
+Test pass312: FAILED to be accepted.                           Points = 0
+Test pass321: FAILED to be accepted.                           Points = 0
+Test pass322: FAILED to be accepted.                           Points = 0
+Test pass323: FAILED to be accepted.                           Points = 0
+Test pass324: FAILED to be accepted.                           Points = 0
+Test pass325: was correctly accepted.                          Points = 1
+Test pass327: FAILED to be accepted.                           Points = 0
+Test pass328: FAILED to be accepted.                           Points = 0
+Test pass330: FAILED to be accepted.                           Points = 0
+Test pass331: was correctly accepted.                          Points = 1
+Test pass332: FAILED to be accepted.                           Points = 0
+Test pass337: FAILED to be accepted.                           Points = 0
+Test pass343: was correctly accepted.                          Points = 1
+Test pass347: FAILED to be accepted.                           Points = 0
+Test pass349: was correctly accepted.                          Points = 1
+Test pass351: was correctly accepted.                          Points = 1
+Test pass354: was correctly accepted.                          Points = 1
+Test pass355: was correctly accepted.                          Points = 1
+Test pass359: was correctly accepted.                          Points = 1
+Test pass362: was correctly accepted.                          Points = 1
+Test pass363: FAILED to be accepted.                           Points = 0
+Test pass364: was correctly accepted.                          Points = 1
+Test pass365: was correctly accepted.                          Points = 1
+Test pass366: was correctly accepted.                          Points = 1
+Test pass367: was correctly accepted.                          Points = 1
+Test pass372: FAILED to be accepted.                           Points = 0
+Test pass373: was correctly accepted.                          Points = 1
+Test pass374: was correctly accepted.                          Points = 1
+Test pass375: was correctly accepted.                          Points = 1
+Test pass376: was correctly accepted.                          Points = 1
+Test pass377: was correctly accepted.                          Points = 1
+Test pass378: FAILED to be accepted.                           Points = 0
+Test pass379: FAILED to be accepted.                           Points = 0
+Test pass380: was correctly accepted.                          Points = 1
+Test pass381: was correctly accepted.                          Points = 1
+Test pass382: was correctly accepted.                          Points = 1
+Test pass383: was correctly accepted.                          Points = 1
+Test pass390: FAILED to be accepted.                           Points = 0
+Test pass392: FAILED to be accepted.                           Points = 0
+
+
+Runtime failures: 0
+Fail testcases:   Correct: 34   Incorrect: 9
+Pass testcases:   Correct: 27   Incorrect: 23
+
+Total Points Earned: 61

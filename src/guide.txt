@@ -1,0 +1,51 @@
+Guide to compiler
+
+Scope of project:
+	no extra functionality added
+Summary to change in AST classes:
+	1. Added ArrayLengthRef class to handle array length.
+	2. ArrayType:
+		Added length field
+		Added getDecl() to get declaration
+		Added equals() for comparison
+	3. AST:
+		Added RuntimeEntity field for code generation
+	4. BaseType:
+		Added getDecl() to get declaration
+		Added equals() for comparison
+	5. CallExpr:
+		Added reReturnType()
+	6. ClassDecl:
+		Added existsMember() for context checking
+	7. ClassType:
+		Added getDecl() to get declaration
+		Added equals() for comparison
+	8. Declaration:
+		Added setIdBinding() for context checking and code generation
+	9. Expression:
+		Added type field
+	10. MemberDecl:
+		Added classDecl and classIndex fields
+	11. MethodDecl:
+		Added returnType field
+		Added isMain() to check if is main()
+	12. Added NullLiteral extending Terminal
+	13. Reference:
+		Added getType()
+		Added getDecl()
+		Added getDeclRTE()
+	14. RefExpr:
+		Added getType()
+	15. Statement:
+		Added methodDecl field for its parent method
+	16. TypeDenoter:
+		Added equals() for type checking
+		Added getDecl()
+	17. TypeKind:
+		Added UNSUPPORTED,ERROR,ANY
+	18. Visitor:
+		Added visitArrayLengthRef(), visitNullLiteral()
+	Note: changes to the abstract class, e.g. Reference, reflect on all its subclasses. For simplicity's sake we won't repeat that for every subclass.
+Tests:
+	no additional tests, given no extra functionality is implemented
+		

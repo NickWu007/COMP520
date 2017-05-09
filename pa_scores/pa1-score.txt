@@ -1,0 +1,120 @@
+pa1 results for junaowu
+
+pa1 scoring:
+1 point  for exit(4) termination in a fail1xx test with xx < 70
+3 points for exit(4) termination in a fail1xx test with xx = 70 or 71
+1 point  for exit(0) termination in a pass1xx test with xx < 70
+3 points for exit(0) termination in a pass1xx test with xx = 70 or 71
+
+miniJava compiler build succeeded.
+
+Test fail101: correctly rejected.     Points = 1
+Test fail102: correctly rejected.     Points = 1
+Test fail103: correctly rejected.     Points = 1
+Test fail104: correctly rejected.     Points = 1
+Test fail105: correctly rejected.     Points = 1
+Test fail117: correctly rejected.     Points = 1
+Test fail118: correctly rejected.     Points = 1
+Test fail119: correctly rejected.     Points = 1
+Test fail120: correctly rejected.     Points = 1
+Test fail121: correctly rejected.     Points = 1
+Test fail125: correctly rejected.     Points = 1
+Test fail126: correctly rejected.     Points = 1
+Test fail127: correctly rejected.     Points = 1
+Test fail128: correctly rejected.     Points = 1
+Test fail130: correctly rejected.     Points = 1
+Test fail131: correctly rejected.     Points = 1
+Test fail140: correctly rejected.     Points = 1
+Test fail141: correctly rejected.     Points = 1
+Test fail142: correctly rejected.     Points = 1
+Test fail143: correctly rejected.     Points = 1
+Test fail144: correctly rejected.     Points = 1
+Test fail145: correctly rejected.     Points = 1
+Test fail146: correctly rejected.     Points = 1
+Test fail147: correctly rejected.     Points = 1
+Test fail148: correctly rejected.     Points = 1
+Test fail149: correctly rejected.     Points = 1
+Test fail150: correctly rejected.     Points = 1
+Test fail151: correctly rejected.     Points = 1
+Test fail152: FAILED to be rejected.  Points = 0
+Test fail153: correctly rejected.     Points = 1
+Test fail154: correctly rejected.     Points = 1
+Test fail155: correctly rejected.     Points = 1
+Test fail156: correctly rejected.     Points = 1
+Test fail157: correctly rejected.     Points = 1
+Test fail158: correctly rejected.     Points = 1
+Test fail159: correctly rejected.     Points = 1
+Test fail160: correctly rejected.     Points = 1
+Test fail161: correctly rejected.     Points = 1
+Test fail162: correctly rejected.     Points = 1
+Test fail164: correctly rejected.     Points = 1
+Test fail165: correctly rejected.     Points = 1
+Test fail166: correctly rejected.     Points = 1
+Test fail167: correctly rejected.     Points = 1
+Test fail168: correctly rejected.     Points = 1
+Test fail169: correctly rejected.     Points = 1
+Test fail170: your compiler did not terminate on the test input!
+Test fail171: your compiler did not terminate on the test input!
+Test pass100: correctly accepted.     Points = 1
+Test pass101: correctly accepted.     Points = 1
+Test pass102: correctly accepted.     Points = 1
+Test pass103: correctly accepted.     Points = 1
+Test pass105: correctly accepted.     Points = 1
+Test pass110: correctly accepted.     Points = 1
+Test pass113: correctly accepted.     Points = 1
+Test pass117: correctly accepted.     Points = 1
+Test pass118: correctly accepted.     Points = 1
+Test pass119: correctly accepted.     Points = 1
+Test pass120: correctly accepted.     Points = 1
+Test pass121: correctly accepted.     Points = 1
+Test pass123: correctly accepted.     Points = 1
+Test pass124: correctly accepted.     Points = 1
+Test pass126: correctly accepted.     Points = 1
+Test pass127: correctly accepted.     Points = 1
+Test pass128: correctly accepted.     Points = 1
+Test pass129: correctly accepted.     Points = 1
+Test pass130: correctly accepted.     Points = 1
+Test pass131: correctly accepted.     Points = 1
+Test pass132: correctly accepted.     Points = 1
+Test pass133: correctly accepted.     Points = 1
+Test pass134: your compiler did not terminate on the test input!
+Test pass135: correctly accepted.     Points = 1
+Test pass137: correctly accepted.     Points = 1
+Test pass140: correctly accepted.     Points = 1
+Test pass141: correctly accepted.     Points = 1
+Test pass142: correctly accepted.     Points = 1
+Test pass143: correctly accepted.     Points = 1
+Test pass144: correctly accepted.     Points = 1
+Test pass145: correctly accepted.     Points = 1
+Test pass146: correctly accepted.     Points = 1
+Test pass147: correctly accepted.     Points = 1
+Test pass148: correctly accepted.     Points = 1
+Test pass150: correctly accepted.     Points = 1
+Test pass151: correctly accepted.     Points = 1
+Test pass152: correctly accepted.     Points = 1
+Test pass153: correctly accepted.     Points = 1
+Test pass154: correctly accepted.     Points = 1
+Test pass155: correctly accepted.     Points = 1
+Test pass156: correctly accepted.     Points = 1
+Test pass157: correctly accepted.     Points = 1
+Test pass158: correctly accepted.     Points = 1
+Test pass159: correctly accepted.     Points = 1
+Test pass160: correctly accepted.     Points = 1
+Test pass161: correctly accepted.     Points = 1
+Test pass162: correctly accepted.     Points = 1
+Test pass163: correctly accepted.     Points = 1
+Test pass164: correctly accepted.     Points = 1
+Test pass165: correctly accepted.     Points = 1
+Test pass166: correctly accepted.     Points = 1
+Test pass167: correctly accepted.     Points = 1
+Test pass168: correctly accepted.     Points = 1
+Test pass169: correctly accepted.     Points = 1
+Test pass170: correctly accepted.     Points = 3
+Test pass171: your compiler did not terminate on the test input!
+
+
+Runtime failures: 4  (0 errors and 4 hangs)
+Fail testcases:   Correct: 44   Incorrect: 1
+Pass testcases:   Correct: 54   Incorrect: 0
+
+Total Points Earned: 100

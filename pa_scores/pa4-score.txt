@@ -1,0 +1,53 @@
+PA4 results for junaowu
+
+PA4 scoring:
+fail4yy tests earn 1 point for exit(4)
+pass4xx tests (xx <  20) earn 1 point for compilation, plus 2 points for
+        correct execution of generated mJAM program.
+pass4xx tests (xx >= 20) earn 1 point for compilation, plus 4 points for
+        correct execution of generated mJAM program
+
+building miniJava compiler ... build succeeded.
+
+Test fail401: was correctly rejected.                          Points = 1
+Test fail402: was correctly rejected.                          Points = 1
+Test fail403: FAILED to be rejected.                           Points = 0
+Test fail404: FAILED to be rejected.                           Points = 0
+Test fail405: was correctly rejected.                          Points = 1
+Test fail406: FAILED to be rejected.                           Points = 0
+Test fail407: FAILED to be rejected.                           Points = 0
+Test fail410: was correctly rejected.                          Points = 1
+Test fail411: was correctly rejected.                          Points = 1
+Test fail412: was correctly rejected.                          Points = 1
+Test pass401: mJAM program yields correct result!              Points = 3
+Test pass402: mJAM program yields correct result!              Points = 3
+Test pass403: mJAM program yields correct result!              Points = 3
+Test pass404: mJAM program yields correct result!              Points = 3
+Test pass405: mJAM program yields correct result!              Points = 3
+Test pass406: mJAM program yields correct result!              Points = 3
+Test pass407: mJAM program yields correct result!              Points = 3
+Test pass408: mJAM program yields correct result!              Points = 3
+Test pass409: mJAM program yields correct result!              Points = 3
+Test pass410: mJAM program yields correct result!              Points = 3
+Test pass411: mJAM program yields correct result!              Points = 3
+Test pass412: mJAM program yields correct result!              Points = 3
+Test pass413: mJAM program yields correct result!              Points = 3
+Test pass414: mJAM program yields correct result!              Points = 3
+Test pass415: mJAM program yields correct result!              Points = 3
+Test pass416: FAILED to be accepted.                           Points = 0
+Test pass417: mJAM program yields correct result!              Points = 3
+Test pass420: mJAM code FAILED during execution.               Points = 1
+Test pass421: mJAM program yields correct result!              Points = 5
+Test pass422: mJAM program yields correct result!              Points = 5
+Test pass423: mJAM program yields correct result!              Points = 5
+Test pass424: mJAM program yields correct result!              Points = 5
+Test pass425: mJAM code FAILED during execution.               Points = 1
+Test pass426: mJAM program FAILS to yield correct result.      Points = 1
+Test pass430: mJAM program yields correct result!!             Points = 5
+
+
+Runtime errors: 2  (2 errors and 0 hangs)
+Fail testcases:   Correct: 6   Incorrect: 4
+Pass testcases:   Correct: 21   Incorrect: 2
+
+Total Points Earned: 82
